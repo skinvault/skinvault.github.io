@@ -26,4 +26,4 @@ That's it! There is no additional setup required.
 
 ## Credits
 
-This project was created by Regular Aim as a learning exercise. The Minecraft skin images are provided by the [mc-heads.net API](https://mc-heads.net/).
+This project was created by Regular Aim#6942 as a learning exercise. The Minecraft skin images are provided by the [mc-heads.net API](https://mc-heads.net/).
